@@ -1,2 +1,1 @@
-# hka-excel
-Praxisnachbereitung
+# Praxisnachbereitung
